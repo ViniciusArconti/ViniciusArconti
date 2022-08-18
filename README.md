@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I'm Vinicius Arconti👋
 
 - 🔭 I’m currently working as a Coordinator at United Idiomas
 - 🌱 Currently learning HTML/CSS, JavaScript, Node.Js at RocketSeat
